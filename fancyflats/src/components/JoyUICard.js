@@ -6,9 +6,12 @@ import Card from "@mui/joy/Card";
 import IconButton from "@mui/joy/IconButton";
 import Typography from "@mui/joy/Typography";
 import BookmarkAdd from "@mui/icons-material/BookmarkAddOutlined";
+import useStore from "./../store";
 // import iamges from "./../assets/001.jpg";
 
 export default function JoyUICard(props) {
+  const onClickCard = (property) => {};
+
   return (
     <Card variant="outlined" sx={{ width: 320, margin: "1rem" }}>
       <Typography level="h2" fontSize="md" sx={{ mb: 0.5 }}>
@@ -29,23 +32,15 @@ export default function JoyUICard(props) {
         <BookmarkAdd />
       </IconButton>
       <AspectRatio minHeight="120px" maxHeight="200px" sx={{ my: 2 }}>
-        <img
-          src="C:\Users\makin\Desktop\WPL\assignments\assignment-2\fancyflats\src\assets\001.jpg"
-          // src={props.image}
-          alt=""
-          onerror="this.src='https://images.unsplash.com/photo-1527549993586-dff825b37782?auto=format&fit=crop&w=286';"
-          loading="lazy"
-        />
+        <img src={props.image} alt="" />
       </AspectRatio>
       <Box sx={{ display: "flex" }}>
         <div>
           <Typography fontSize="md" fontWeight="md">
-            {/* $2,900 */}
             {props.city}
           </Typography>
           <Typography level="body1">Price per night:</Typography>
           <Typography fontSize="md" fontWeight="md">
-            {/* $2,900 */}
             {props.price}
           </Typography>
         </div>
@@ -60,8 +55,9 @@ export default function JoyUICard(props) {
             color: "blue",
             textDecoration: "underline",
           }}
+          onClick={onClickCard(props.property)}
         >
-          Add to cart
+          Details
         </Button>
       </Box>
     </Card>

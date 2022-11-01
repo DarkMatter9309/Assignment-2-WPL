@@ -10,11 +10,11 @@
       "available": "10/31/2022",
       "price_per_night": "90 USD",
       "city": "Las Vegas",
-      "image": "001"
+      "image": "1"
     },
     {
       "title": "COUNTRY CABIN",
-      "description": "BEAUTIFUL COZY CABIN FOR YOUR FAMILY!!! This beautifully decorated 700 sq ft. cabin has everything you need for your perfect getaway. Just a 45 minute drive north of McKinney located on 2.5 acres. You can sit back and enjoy the view of the trees while rocking of the front porch with your morning coffee. Located only 10 miles from Lake Bonham, this cabin has a full kitchen equipped with everything you need for a country escape",
+      "description": "BEAUTIFUL COZY CABIN FOR YOUR FAMILY!!! This beautifully decorated 7 sq ft. cabin has everything you need for your perfect getaway. Just a 45 minute drive north of McKinney located on 2.5 acres. You can sit back and enjoy the view of the trees while rocking of the front porch with your morning coffee. Located only 10 miles from Lake Bonham, this cabin has a full kitchen equipped with everything you need for a country escape",
       "cleaning fee": "10",
       "service fee": "15",
       "amenities": ["shower", "pool", "wifi", "lakeview"],
@@ -22,7 +22,7 @@
       "available": "10/31/2022",
       "price_per_night": "70 USD",
       "city": "Las Vegas",
-      "image": "002"
+      "image": "2"
     },
     {
       "title": "Waterfront Kabana ",
@@ -34,7 +34,7 @@
       "available": "10/31/2022",
       "price_per_night": "60 USD",
       "city": "Austin",
-      "image": "003"
+      "image": "3"
     },
     {
       "title": "Lake Texoma Cabin",
@@ -46,7 +46,7 @@
       "available": "10/31/2022",
       "price_per_night": "50 USD",
       "city": "Austin",
-      "image": "004"
+      "image": "4"
     },
     {
       "title": "Pottsboro Cabin",
@@ -58,7 +58,7 @@
       "available": "10/31/2022",
       "price_per_night": "140 USD",
       "city": "Las Vegas",
-      "image": "005"
+      "image": "5"
     },
     {
       "title": "Rancho De Los Arbres",
@@ -68,9 +68,9 @@
       "amenities": ["shower", "pool", "wifi", "lakeview"],
       "bedrooms": "3",
       "available": "10/31/2022",
-      "price_per_night": "100 USD",
+      "price_per_night": "1 USD",
       "city": "Las Vegas",
-      "image": "006"
+      "image": "6"
     },
     {
       "title": "Lazy Acres Farmhouse",
@@ -82,7 +82,7 @@
       "available": "10/31/2022",
       "price_per_night": "60 USD",
       "city": "New Jersey",
-      "image": "007"
+      "image": "7"
     },
     {
       "title": "Mom's Tiny House Retreat",
@@ -94,7 +94,7 @@
       "available": "10/31/2022",
       "price_per_night": "90 USD",
       "city": "Dallas",
-      "image": "008"
+      "image": "8"
     },
     {
       "title": "The Shack",
@@ -106,7 +106,7 @@
       "available": "10/31/2022",
       "price_per_night": "50 USD",
       "city": "Dallas",
-      "image": "009"
+      "image": "9"
     },
     {
       "title": "Pet-Friendly Cabin",
@@ -118,7 +118,7 @@
       "available": "10/31/2022",
       "price_per_night": "80 USD",
       "city": "Dallas",
-      "image": "010"
+      "image": "10"
     },
     {
       "title": "Estes Retreat",
@@ -130,7 +130,7 @@
       "available": "10/31/2022",
       "price_per_night": "110 USD",
       "city": "New York",
-      "image": "011"
+      "image": "11"
     },
     {
       "title": "Cabin hosted by Vacasa Georgia",
@@ -142,7 +142,7 @@
       "available": "10/31/2022",
       "price_per_night": "210 USD",
       "city": "New York",
-      "image": "012"
+      "image": "12"
     }
   ]
 }

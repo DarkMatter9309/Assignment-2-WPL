@@ -30,12 +30,13 @@ const LoactionCards = () => {
       {filteredProperties.map((property, index) => (
         <JoyUICard
           key={index}
+          property={property}
           title={property.title}
           date_range={property.date_range}
           price={property.price_per_night}
           city={property.city}
           available={property.available}
-          image={"./../assets/" + property.image + ".jpg"}
+          image={property.image + ".jpg"}
         />
       ))}
     </div>
