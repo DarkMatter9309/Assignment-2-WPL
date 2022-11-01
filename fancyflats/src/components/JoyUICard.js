@@ -10,7 +10,10 @@ import useStore from "./../store";
 // import iamges from "./../assets/001.jpg";
 
 export default function JoyUICard(props) {
-  const onClickCard = (property) => {};
+  function onClickCard() {
+    props.setDisplay(false);
+    props.setProperty(props.property);
+  }
 
   return (
     <Card variant="outlined" sx={{ width: 320, margin: "1rem" }}>
@@ -55,7 +58,7 @@ export default function JoyUICard(props) {
             color: "blue",
             textDecoration: "underline",
           }}
-          onClick={onClickCard(props.property)}
+          onClick={() => onClickCard()}
         >
           Details
         </Button>

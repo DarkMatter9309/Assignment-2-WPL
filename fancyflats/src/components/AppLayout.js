@@ -5,10 +5,8 @@ import Col from "react-bootstrap/Col";
 import Header from "./Header";
 import LoactionCards from "./LocationCards";
 import Menu from "./Menu";
-import useStore from "./../store";
 
 const AppLayout = () => {
-  const display = useStore((state) => state.display);
   return (
     <Container fluid>
       <Row>
@@ -21,8 +19,7 @@ const AppLayout = () => {
           <Menu />
         </Col>
         <Col xs={10}>
-          {display == "cards" && <LoactionCards />}
-          {display == "card_details" && <CardDetails />}
+          <LoactionCards />
         </Col>
       </Row>
     </Container>

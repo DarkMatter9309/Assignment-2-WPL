@@ -6,8 +6,6 @@ const useStore = create((set) => ({
   filteredProperties: [],
   setFilteredProperties: (_filteredProperties) =>
     set({ filteredProperties: _filteredProperties }),
-  display: "cards",
-  setDisplay: (_display) => set({ display: _display }),
   property: {},
   setProperty: (_property) => set({ property: _property }),
 }));
