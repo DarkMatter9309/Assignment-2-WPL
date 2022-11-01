@@ -10,7 +10,8 @@
       "available": "10/31/2022",
       "price_per_night": "90 USD",
       "city": "Las Vegas",
-      "image": "1"
+      "image": "1",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "COUNTRY CABIN",
@@ -22,7 +23,8 @@
       "available": "10/31/2022",
       "price_per_night": "70 USD",
       "city": "Las Vegas",
-      "image": "2"
+      "image": "2",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Waterfront Kabana ",
@@ -34,7 +36,8 @@
       "available": "10/31/2022",
       "price_per_night": "60 USD",
       "city": "Austin",
-      "image": "3"
+      "image": "3",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Lake Texoma Cabin",
@@ -46,7 +49,8 @@
       "available": "10/31/2022",
       "price_per_night": "50 USD",
       "city": "Austin",
-      "image": "4"
+      "image": "4",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Pottsboro Cabin",
@@ -58,7 +62,8 @@
       "available": "10/31/2022",
       "price_per_night": "140 USD",
       "city": "Las Vegas",
-      "image": "5"
+      "image": "5",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Rancho De Los Arbres",
@@ -70,7 +75,8 @@
       "available": "10/31/2022",
       "price_per_night": "1 USD",
       "city": "Las Vegas",
-      "image": "6"
+      "image": "6",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Lazy Acres Farmhouse",
@@ -82,7 +88,8 @@
       "available": "10/31/2022",
       "price_per_night": "60 USD",
       "city": "New Jersey",
-      "image": "7"
+      "image": "7",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Mom's Tiny House Retreat",
@@ -94,7 +101,8 @@
       "available": "10/31/2022",
       "price_per_night": "90 USD",
       "city": "Dallas",
-      "image": "8"
+      "image": "8",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "The Shack",
@@ -106,7 +114,8 @@
       "available": "10/31/2022",
       "price_per_night": "50 USD",
       "city": "Dallas",
-      "image": "9"
+      "image": "9",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Pet-Friendly Cabin",
@@ -118,7 +127,8 @@
       "available": "10/31/2022",
       "price_per_night": "80 USD",
       "city": "Dallas",
-      "image": "10"
+      "image": "10",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Estes Retreat",
@@ -130,7 +140,8 @@
       "available": "10/31/2022",
       "price_per_night": "110 USD",
       "city": "New York",
-      "image": "11"
+      "image": "11",
+      "date_range": "10/31/2022 to 10/15/2022"
     },
     {
       "title": "Cabin hosted by Vacasa Georgia",
@@ -142,7 +153,8 @@
       "available": "10/31/2022",
       "price_per_night": "210 USD",
       "city": "New York",
-      "image": "12"
+      "image": "12",
+      "date_range": "10/31/2022 to 10/15/2022"
     }
   ]
 }

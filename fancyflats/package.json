@@ -35,6 +35,7 @@
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.10.9",
     "@mui/joy": "^5.0.0-alpha.52",
+    "@mui/x-date-pickers": "^5.0.6",
     "bootstrap": "^5.2.2",
     "file-loader": "^6.2.0",
     "react": "^17.0.2",

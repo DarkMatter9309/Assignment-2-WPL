@@ -1,21 +1,13 @@
 import React, { useState } from "react";
-import dayjs, { Dayjs } from "dayjs";
 import AspectRatio from "@mui/joy/AspectRatio";
-import Box from "@mui/joy/Box";
 import Button from "@mui/joy/Button";
-import Card from "@mui/joy/Card";
-import IconButton from "@mui/joy/IconButton";
 import Typography from "@mui/joy/Typography";
-import BookmarkAdd from "@mui/icons-material/BookmarkAddOutlined";
-import { DatePicker } from "@mui/x-date-pickers/DatePicker";
-import { DesktopDatePicker } from "@mui/x-date-pickers/DesktopDatePicker";
 
 const CardDetails = (props) => {
   function onClickCancel() {
     props.setDisplay(true);
     console.log(props.property.image);
   }
-  const [value, setValue] = useState(dayjs("2014-08-18T21:11:54"));
   return (
     <div>
       <AspectRatio minHeight="180px" maxHeight="300px" sx={{ my: 2 }}>
